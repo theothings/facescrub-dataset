@@ -1,5 +1,5 @@
 # facescrub-dataset
-Dataset of 475000 faces from 530 faces (50x50 color) from facescrub
+Dataset of 47500 faces from 530 faces (50x50 color) from facescrub
 
 Source: http://vintage.winklerbros.net/facescrub.html
 
